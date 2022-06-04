@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kiwizbc
+- 👀 I’m interested in coding fun games
+- 🌱 I’m currently learning C++ and JavaScript
+- 💞️ I’m looking to collaborate on a game like Star wars Jedi fallen order
+- 📫 How to reach me Discord Bake Bean#1358
